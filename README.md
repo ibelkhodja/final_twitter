@@ -1,10 +1,10 @@
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment.
+📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
 
 # Twitter - Part II
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
-Time spent: 3 hours
+Time spent: **X** hours spent in total
 
 ## User Stories
 
@@ -24,7 +24,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/lcajqYi.gif)
+![]![](https://i.imgur.com/ULr00Wp.gif)
+
 
 
 
